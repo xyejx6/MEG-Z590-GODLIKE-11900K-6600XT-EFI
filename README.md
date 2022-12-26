@@ -17,7 +17,7 @@ OC版本：0.8.7
 
 睡眠正常
 
-BIOS设置：打开VTD，DTM，XMP， 关闭CFG，快速启动关闭 BIOS开启GPU resizebar
+BIOS设置：打开VTD，DTM，XMP， 关闭CFG，快速启动关闭，BIOS开启GPU resizebar
 
 <img width="1088" alt="截屏2022-12-26 09 15 03" src="https://user-images.githubusercontent.com/100694271/209488771-0616b4f0-d2ef-4db8-9eab-31756cd551be.png">
 <img width="1608" alt="截屏2022-12-23 00 14 55" src="https://user-images.githubusercontent.com/100694271/209488775-bbb0ad8d-3f28-4a1b-953e-061a225e7e29.png">
